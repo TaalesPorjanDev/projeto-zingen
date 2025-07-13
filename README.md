@@ -33,7 +33,7 @@ Este projeto é uma **landing page responsiva** desenvolvida como parte de um de
 ## 🌐 Acesse o projeto
 
 🔗 [Clique aqui para visualizar](https://projeto-zingen-rocketseat.vercel.app/)  
-*(Substitua por link do GitHub Pages, Vercel ou Netlify, se disponível)*
+
 
 ## 📦 Como rodar localmente
 
